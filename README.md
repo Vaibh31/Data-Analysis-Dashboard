@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This project presents an interactive bike sales analysis dashboard, developed in Microsoft Excel. The data powering this dashboard was loaded directly from a SQL database, ensuring accurate, real-time insights into sales performance across different dimensions.
+# SQL-Driven Bike Sales Analytics Dashboard in Excel
+## Project Objective
+To deliver a dynamic, SQL-powered Excel dashboard that enables business stakeholders to quickly identify sales trends, top-performing products and regions, and key growth opportunities, driving informed strategic decisions and maximizing profitability.
+
