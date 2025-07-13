@@ -1,6 +1,6 @@
 # SQL-Driven Bike Sales Analytics Dashboard in Excel
 ## Dasboard
-<a href="<img width="1426" height="622" alt="Screenshot 2025-07-13 121200" src="https://github.com/user-attachments/assets/267933dd-203c-4667-ac88-96b637a343d6" />"></a>
+<img width="1426" height="622" alt="Screenshot 2025-07-13 121200" src="https://github.com/user-attachments/assets/267933dd-203c-4667-ac88-96b637a343d6" />
 
 ## Project Objective
 To deliver a dynamic, SQL-powered Excel dashboard that enables business stakeholders to quickly identify sales trends, top-performing products and regions, and key growth opportunities, driving informed strategic decisions and maximizing profitability.
