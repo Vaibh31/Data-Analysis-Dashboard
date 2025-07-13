@@ -52,7 +52,7 @@ Compares store-wise performance, enabling localized strategy development.
 
 - Design & Optimization: Applied professional formatting, ensured smooth slicer interactions, and optimized for executive-level usability.
 
-##🔎Key Insights
+## 🔎Key Insights
 - Mountain Bikes dominate revenue, making them the most profitable and high-demand product category.
 - Baldwin Bikes account for 67% of units sold, highlighting their strong market acceptance and major contribution to total sales
 - Consistent revenue growth from 2016 to 2018, with a peak in 2017, shows a strong upward sales trend and healthy business expansion.
