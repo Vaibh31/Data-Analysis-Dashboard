@@ -1,6 +1,4 @@
 # SQL-Driven Bike Sales Analysis Dashboard in Excel
-## Dashboard
-<img width="1426" height="622" alt="Screenshot 2025-07-13 121200" src="https://github.com/user-attachments/assets/267933dd-203c-4667-ac88-96b637a343d6" />
 
 ## Project Objective
 To deliver a dynamic, SQL-powered Excel dashboard that enables business stakeholders to quickly identify sales trends, top-performing products and regions, and key growth opportunities, driving informed strategic decisions and maximizing profitability.
@@ -38,6 +36,9 @@ Highlights the sales team members who generated the most revenue.
 
 - Units Sold per Store
 Compares store-wise performance, enabling localized strategy development.
+
+## Dashboard
+<img width="1426" height="622" alt="Screenshot 2025-07-13 121200" src="https://github.com/user-attachments/assets/267933dd-203c-4667-ac88-96b637a343d6" />
 
 ## ⚙️Process
 - Data Extraction: Pulled bike sales data directly from a SQL database to ensure accuracy and real-time insights.
