@@ -60,6 +60,14 @@ Compares store-wise performance, enabling localized strategy development.
 - Top sales reps (Venita Daniel and Marcelene Boyer) significantly outperform others, suggesting the value of targeted incentives and focused training programs.
 - A small group of top customers drive major revenue, emphasizing the importance of personalized engagement and loyalty initiatives.
 
+## ⚠️ Challenges Faced
+- SQL-Excel integration issues: Setting up a reliable connection to pull data from SQL into Excel without errors or refresh failures.
+- Data cleaning complexities: Dealing with inconsistent or incomplete data from the database, requiring additional transformation before analysis.
+- Performance bottlenecks: Excel dashboards with large datasets (especially with multiple pivot tables and slicers) can become slow and unresponsive.
+- Designing clear visuals: Creating charts and tables that communicate insights effectively without overwhelming the user.
+- Dynamic interactivity: Ensuring slicers and pivot charts interact smoothly and reflect accurate filtered results.
+- Maintaining data refresh accuracy: Making sure the latest SQL data is always reflected properly after each refresh without breaking formulas or visuals.
+  
 ## 💡Key Learnings
 - How to integrate and connect SQL data with Excel, enabling automated, real-time analysis without manual file updates.
 - Advanced use of pivot tables, pivot charts, and slicers to create interactive, business-ready dashboards.
