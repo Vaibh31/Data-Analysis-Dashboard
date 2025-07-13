@@ -58,7 +58,17 @@ Compares store-wise performance, enabling localized strategy development.
 - Consistent revenue growth from 2016 to 2018, with a peak in 2017, shows a strong upward sales trend and healthy business expansion.
 - Top sales reps (Venita Daniel and Marcelene Boyer) significantly outperform others, suggesting the value of targeted incentives and focused training programs.
 - A small group of top customers drive major revenue, emphasizing the importance of personalized engagement and loyalty initiatives.
-  
+
+## 💡Key Learnings
+- How to integrate and connect SQL data with Excel, enabling automated, real-time analysis without manual file updates.
+- Advanced use of pivot tables, pivot charts, and slicers to create interactive, business-ready dashboards.
+- Techniques for designing clear, executive-level visualizations that communicate insights effectively.
+- The importance of identifying and highlighting key performance indicators (KPIs) to guide business decisions.
+
+
+
+
+
 ## ✅ Final Conclusion
 This SQL-powered dashboard offers clear, interactive insights into bike sales performance.It highlights top products, seasonal trends, and key revenue drivers.Key customers and regional analysis guide focused growth strategies.Overall, it empowers data-driven decisions to maximize sales and profitability.
 
