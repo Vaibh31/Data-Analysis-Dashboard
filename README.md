@@ -35,3 +35,16 @@ Highlights the sales team members who generated the most revenue.
 
 - Units Sold per Store
 Compares store-wise performance, enabling localized strategy development.
+
+## ⚙️ Process
+- Data Extraction: Pulled bike sales data directly from a SQL database to ensure accuracy and real-time insights.
+
+- Data Loading: Imported SQL data into Excel using data connections for easy refresh and updates.
+
+- Data Preparation: Cleaned, transformed, and structured data to support dynamic analysis.
+
+- Dashboard Development: Built pivot tables, pivot charts, and slicers to create an interactive, business-friendly dashboard.
+
+- KPI Definition: Highlighted key metrics such as total revenue, units sold, category and regional performance, and top customers.
+
+- Design & Optimization: Applied professional formatting, ensured smooth slicer interactions, and optimized for executive-level usability.
